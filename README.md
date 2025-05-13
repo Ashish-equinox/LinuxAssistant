@@ -136,10 +136,10 @@ Command-line options:
 
 ## 📸 UI Screenshots
 
-> ![Theme 1](screenshots/theme1.png)
+> ![Theme 1](images/hacker-theme.png)
 > Theme preview 1
 
-> ![Theme 2](screenshots/theme2.png)
+> ![Theme 2](images/light-theme.png)
 > Theme preview 2
 
 > ![Theme 3](screenshots/theme3.png)
