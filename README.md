@@ -137,18 +137,18 @@ Command-line options:
 ## 📸 UI Screenshots
 
 > ![Theme 1](images/hacker-theme.png)
-> Theme preview 1
+> Hacker Theme
 
 > ![Theme 2](images/light-theme.png)
-> Theme preview 2
+> Light Theme
 
-> ![Theme 3](screenshots/theme3.png)
-> Theme preview 3
+> ![Theme 3](images/dark-theme.png)
+> Dark Theme
 
-> ![Create File Dialog](screenshots/dialog_create_file.png)
+> ![Create File Dialog](images/create-file.png)
 > Dialog for "Create File" operation
 
-> ![Reboot Confirmation Dialog](screenshots/dialog_reboot.png)
+> ![Reboot Confirmation Dialog](images/reboot.png)
 > Confirmation dialog for system reboot
 
 ---
