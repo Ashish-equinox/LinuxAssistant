@@ -186,4 +186,4 @@ Thank you to the open-source Linux community and the tools that inspired this pr
 
 ---
 
-**Developed by Ashish 🚀✨**
+**Developed by Team Statix 🚀✨**
