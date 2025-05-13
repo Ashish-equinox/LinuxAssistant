@@ -139,14 +139,22 @@ Command-line options:
 > ![Theme 1](images/hacker-theme.png)
 > Hacker Theme
 
+
 > ![Theme 2](images/light-theme.png)
 > Light Theme
+
 
 > ![Theme 3](images/dark-theme.png)
 > Dark Theme
 
+
+> ![Theme 4](images/glass-theme.png)
+> Glass Theme
+
+
 > ![Create File Dialog](images/create-file.png)
 > Dialog for "Create File" operation
+
 
 > ![Reboot Confirmation Dialog](images/reboot.png)
 > Confirmation dialog for system reboot
